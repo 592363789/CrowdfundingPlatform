@@ -1,0 +1,12 @@
+{
+  "id": 31337,
+  "network": "Custom",
+  "deployments": {
+    "0xcf7ed3acca5a467e9e704c703e8d87f634fb0fc9": {
+      "date": "2024-09-19T10:11:56.926Z",
+      "contractName": "CrowdfundingPlatformV2",
+      "fork": "london",
+      "implementationAddress": "0x9fE46736679d2D9a65F0992F2272dE9f3c7fa6e0"
+    }
+  }
+}
